@@ -12,3 +12,17 @@ A logic-based interactive game designed to help users understand currency calcul
 **How to Run:**
 1. Compile: `javac DollarGame.java`
 2. Run: `java DollarGame`
+   
+### 2️⃣ Roll the Die Game
+**Description:** 
+A board game simulation where the player tries to reach exactly space 20 within 5 rolls of a die. This project demonstrates control flow management and randomized logic.
+
+**Technical Features:**
+*   **Randomization:** Uses `java.util.Random` to simulate die rolls (1-6).
+*   **Iteration:** Implements a `for` loop to manage a limited number of player turns.
+*   **Complex Conditionals:** Manages multiple game states (Win, Overshoot, Under-target).
+*   **String Formatting:** Utilizes `String.format()` for clean, dynamic console messaging.
+
+**How to Run:**
+1. Compile: `javac RollTheDieGame.java`
+2. Run: `java RollTheDieGame`
