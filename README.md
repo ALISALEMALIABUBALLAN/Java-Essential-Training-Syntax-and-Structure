@@ -55,3 +55,18 @@ A comprehensive example of Object-Oriented Programming (OOP) in Java. This proje
 **How to Run:**
 1. Compile: `javac CarFactory.java`
 2. Run: `java CarFactory`
+
+### 5️⃣ Text Processor (Arrays & String Manipulation)
+**Description:** 
+An interactive utility designed for real-time text parsing and data sanitation. This project demonstrates how to handle raw user strings, transform them into structured arrays, and perform statistical analysis.
+
+**Technical Features:**
+*   **Dynamic Input Handling: Captures multi-word sentences using Scanner.nextLine() for flexible user interaction.
+*   **Regular Expressions (Regex): Utilizes replaceAll("[^a-zA-Z]", "") to sanitize text by removing punctuation and special characters.
+*   **Array Management: Demonstrates converting strings into String[] arrays for efficient iteration and data processing.
+*   **Search Algorithms: Implements case-insensitive search logic to locate specific words within the processed data.
+*   **Javadoc Documentation: Uses professional documentation tags like @param to explain method signatures and parameters.
+
+**How to Run:**
+1. Compile: `javac TextProcessor.java`
+2. Run: `java TextProcessor`
