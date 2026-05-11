@@ -41,3 +41,17 @@ An upgraded arithmetic processing tool that demonstrates the transition from har
 **How to Run:**
 1. Compile: `javac CreateMethodsToPerformCalculations.java`
 2. Run: `java CreateMethodsToPerformCalculations`
+
+### 4️⃣ Car Factory (Object-Oriented Programming)
+**Description:** 
+A comprehensive example of Object-Oriented Programming (OOP) in Java. This project demonstrates how to model real-world entities using classes and manage their data securely.
+
+**Technical Features:**
+*   **Encapsulation:** Used `private` fields with `public` getters and setters to control data access.
+*   **Object Lifecycle:** Demonstrates object instantiation, state initialization, and attribute modification.
+*   **Method Overriding:** Custom implementation of `toString()` for readable output and `equals()` for logical object comparison.
+*   **Static Factory Method:** Shows how to use a static method to encapsulate the object creation process.
+
+**How to Run:**
+1. Compile: `javac CarFactory.java`
+2. Run: `java CarFactory`
